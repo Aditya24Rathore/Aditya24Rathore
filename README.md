@@ -1,5 +1,5 @@
 # 💫 About Me:
-👀 Currently exploring Web Development, Open Source, and Full-Stack Projects<br>🌱 Learning technologies like JavaScript, React, and Node.js<br>🛠️ Skilled in C, C++, Python, SQL, HTML, CSS<br>📚 Interested in Software Development, Machine Learning, and Data Analysis
+👀 Currently exploring Web Development, Open Source, and Full-Stack Projects<br>🌱 Learning technologies like JavaScript, React, and Node.js<br>🛠️ Skilled in C, C++, SQL, HTML, CSS<br>📚 Interested in Software Development, Machine Learning, and Data Analysis
 
 
 ## 🌐 Socials:
