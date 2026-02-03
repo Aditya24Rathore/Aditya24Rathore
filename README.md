@@ -12,12 +12,14 @@
 # 📈 LeetCode Stats:
 [![](https://leetcard.jacoblin.cool/Aditya_0324?theme=dark&font=Karma&ext=contest)](https://leetcode.com/u/Aditya_0324/ "Visit my LeetCode profile")
 
-# 📊 GitHub Stats:
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya24Rathore&theme=dark&hide_border=false&count_private=true&include_all_commits=true)
+# 📊 GitHub Stats
+  <a href="https://github.com/Aditya24Rathore" target="_blank">
+    <img
+      src="https://nirzak-streak-stats.vercel.app/?user=Aditya24Rathore&theme=dark&hide_border=false"
+      alt="GitHub Streak Stats"
+    />
+  </a>
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Aditya24Rathore&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya24Rathore&theme=dark&hide_border=false&layout=compact)
 
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aditya24Rathore&theme=radical&no-frame=false&no-bg=false&margin-w=4)
