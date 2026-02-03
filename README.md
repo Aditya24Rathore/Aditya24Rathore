@@ -13,9 +13,11 @@
 [![](https://leetcard.jacoblin.cool/Aditya_0324?theme=dark&font=Karma&ext=contest)](https://leetcode.com/u/Aditya_0324/ "Visit my LeetCode profile")
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aditya24Rathore&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Aditya24Rathore&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya24Rathore&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya24Rathore&theme=dark&hide_border=false&count_private=true&include_all_commits=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Aditya24Rathore&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya24Rathore&theme=dark&hide_border=false&layout=compact)
 
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aditya24Rathore&theme=radical&no-frame=false&no-bg=false&margin-w=4)
