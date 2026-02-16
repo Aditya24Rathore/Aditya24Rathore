@@ -1,5 +1,5 @@
 # 💫 About Me:
-👀 Currently Learning DSA, exploring Web Development, Open Source, and Full-Stack Projects<br>🌱 Learning technologies like JavaScript, React, and Node.js<br>🛠️ Skilled in C, C++, DSA, SQL, HTML, CSS<br>📚 Interested in Software Development, Web Development.
+👀 Currently Learning DSA, Development, Open Source, Projects<br>🛠️ Skilled in C, C++, DSA<br>📚 Interested in Software Development.
 
 
 ## 🌐 Socials:
